@@ -1,4 +1,6 @@
 //Data 
+console.log('Hello World');
+
 const inventory = [
   {
     id: 1,
